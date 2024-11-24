@@ -1,0 +1,17 @@
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\bin\Debug\net6.0-windows\ImgPictureBox3minFinal.exe
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\bin\Debug\net6.0-windows\ImgPictureBox3minFinal.deps.json
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\bin\Debug\net6.0-windows\ImgPictureBox3minFinal.runtimeconfig.json
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\bin\Debug\net6.0-windows\ImgPictureBox3minFinal.dll
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\bin\Debug\net6.0-windows\ImgPictureBox3minFinal.pdb
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ImgPictureBox3minFinal.Form1.resources
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ImgPictureBox3minFinal.Properties.Resources.resources
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ImgPictureBox3minFinal.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ImgPictureBox3minFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ImgPictureBox3minFinal.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ImgPictureBox3minFinal.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ImgPictureBox3minFinal.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ImgPictureBox3minFinal.dll
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\refint\ImgPictureBox3minFinal.dll
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ImgPictureBox3minFinal.pdb
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ImgPictureBox3minFinal.genruntimeconfig.cache
+C:\Users\Carlos\source\repos\ImgPictureBox3minFinal\ImgPictureBox3minFinal\obj\Debug\net6.0-windows\ref\ImgPictureBox3minFinal.dll
